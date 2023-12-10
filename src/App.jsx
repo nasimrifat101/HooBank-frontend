@@ -1,4 +1,5 @@
-import {Navbar, Hero, Stats, Business, Billing, CardDeal, Clinet, CTA, Footer, Testimonial} from './components'
+import {Navbar, Hero, Business, Billing, CardDeal, Clinet, CTA, Footer, Testimonial, Stats} from './components'
+
 import styles from "./style.js";
 
 

@@ -26,4 +26,5 @@ export {
     Hero,
     Stats,
     Testimonial,
+    
 }
